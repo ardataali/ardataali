@@ -35,8 +35,8 @@ Yapay zeka destekli yazılım geliştirme, otonom ajanlar ve modern web/mobil ç
 
 ---
 
-### 📈 GitHub Durumu
+### 📈 GitHub Özeti
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardataali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Arda's Stats" />
+  <img src="https://komarev.com/ghpvc/?username=ardataali&label=Profil+Ziyareti&color=blue&style=flat-square" alt="Profil Ziyareti" />
 </div>
