@@ -35,9 +35,8 @@ Yapay zeka destekli yazılım geliştirme, otonom ajanlar ve modern web/mobil ç
 
 ---
 
-### 📈 GitHub İstatistikleri
+### 📈 GitHub Durumu
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardataali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardataali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ardataali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Arda's Stats" />
 </div>
